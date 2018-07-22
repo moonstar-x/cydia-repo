@@ -1,0 +1,53 @@
+<package>
+	<id>io.moonstar.sillytheme</id>
+	<name>Silly Theme</name>
+	<version>0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.1.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies><package>com.anemonetheming.anemone</package></dependencies>
+	<descriptionlist>
+		<description>
+		<![CDATA[Simply silly. <br/> The silliest icon pack you'll find on iOS for Anemone. <br/> Based on a little challenge I made for myself: colors are eye picked and used only the brush tool with the same brush size for everything. <br/> This was just a little personal project that I did with my use in mind, the icons I've skinned are limited. If you liked what I've made and would like me to make other icons, message me on Reddit, I'll try to answer your message and update the package as soon as possible. Thank you.]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Apps included in the theme.</description>
+			<image>1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Apps included in the theme.</description>
+			<image>2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Apps included in the theme.</description>
+			<image>3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Apps included in the theme.</description>
+			<image>4.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added some 3rd party icons.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/moonstar-x</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Donate on PayPal</name>
+			<url>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XSDSHJQNRA6VU</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</links>
+</package>

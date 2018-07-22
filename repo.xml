@@ -1,14 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name></name>
-			<url></url>
-			<iconclass></iconclass>
+			<name>u/moonstar-x</name>
+			<url>https://www.reddit.com/user/moonstar-x</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 		<link>
-			<name></name>
-			<url></url>
-			<iconclass></iconclass>
+			<name>Steam</name>
+			<url>https://steamcommunity.com/id/moonstar-x</url>
+			<iconclass>fa fa-steam-square</iconclass>
 		</link>
 	</footerlinks>
 </repo>
